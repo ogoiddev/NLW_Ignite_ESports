@@ -15,10 +15,10 @@ export const getAllByGameId = async (req: Request, res: Response) => {
       gameId: true,
       name: true,
       yearsPlaying: true,
-      discord: true,
       weekDays: true,
       hourStart: true,
       hourEnd: true,
+      useVoiceChannel: true,
     },
     where: {
       gameId,

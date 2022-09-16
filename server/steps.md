@@ -49,5 +49,16 @@ $ npx prisma migrate dev
 #### Client
 ```
 $ npm install @prisma/client
+```
+
+#### Cors
+```
+$ npm install cors 
+```
+```
+$ nmp install --save-dev @types/cors
+```
+
+
 
 
