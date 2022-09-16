@@ -75,12 +75,14 @@ $ nmp install --save-dev @types/cors
 $ npm create vite@latest
 ```
 
-// Need to install the following packages:
-// create-vite@3.1.0
-// Ok to proceed? (y) y
-// ✔ Project name: … web
-// ✔ Select a framework: › React
-// ✔ Select a variant: › TypeScript
+| go like:
+| :---
+|  Need to install the following packages:
+|  create-vite@3.1.0
+|  Ok to proceed? (y) y
+|  ✔ Project name: … web
+|  ✔ Select a framework: › React
+|  ✔ Select a variant: › TypeScript
 
 
 ## [Tailwind](https://tailwindcss.com/docs/installation/using-postcss)
