@@ -35,6 +35,24 @@ $ npm install phosphor-react
 ```
 $ npm install @radix-ui/react-dialog
 ```
+```
+$ npm install @radix-ui/react-checkbox
+```
+```
+$ npm install @radix-ui/react-select
+```
+```
+$ npm install @radix-ui/react-toggle-group
+```
 
+#### To fetch - AXIOS
+```
+$ npm install axios
+```
+
+#### [Kenn-Slider](https://keen-slider.io/)
+```
+$ npm install keen-slider
+```
 
 

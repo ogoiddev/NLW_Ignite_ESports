@@ -25,6 +25,22 @@ $ expo install expo install expo-linear-gradient
 $$ expo install react-native-svg
 ```
 
+#### [Expo ClipBoard](https://docs.expo.dev/versions/latest/sdk/clipboard/)
+```
+expo install expo-clipboard
+```
+
+#### [Expo Notification]()
+```
+$ expo install expo-notifications
+```
+
+#### Expor notification
+```
+$ getPushNotificationToken
+```
+
+
 #### [React Navigation](https://reactnavigation.org/docs/getting-started/)
 #### To keep area save in different types of phone
 ```

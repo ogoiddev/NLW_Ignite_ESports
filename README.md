@@ -74,7 +74,6 @@ $ nmp install --save-dev @types/cors
 ```
 $ npm create vite@latest
 ```
-
 | go like:
 | :---
 |  Need to install the following packages:
@@ -106,14 +105,32 @@ $ npm install phosphor-react
 ```
 $ npm install @radix-ui/react-dialog
 ```
+```
+$ npm install @radix-ui/react-checkbox
+```
+```
+$ npm install @radix-ui/react-select
+```
+```
+$ npm install @radix-ui/react-toggle-group
+```
+
+#### To fetch - AXIOS
+```
+$ npm install axios
+```
+
+#### [Kenn-Slider](https://keen-slider.io/)
+```
+$ npm install keen-slider
+```
 
 
 
-# FrontEnd - Mobile
+# FrontEnd mobile
 
-# Steps to build project
 
-## FrontEnd mobile
+## Steps to build project
 
 #### [Expo](https://docs.expo.dev/)
 ```
@@ -138,6 +155,22 @@ $ expo install expo install expo-linear-gradient
 $$ expo install react-native-svg
 ```
 
+#### [Expo ClipBoard](https://docs.expo.dev/versions/latest/sdk/clipboard/)
+```
+expo install expo-clipboard
+```
+
+#### [Expo Notification]()
+```
+$ expo install expo-notifications
+```
+
+#### Expor notification
+```
+$ getPushNotificationToken
+```
+
+
 #### [React Navigation](https://reactnavigation.org/docs/getting-started/)
 #### To keep area save in different types of phone
 ```
@@ -160,3 +193,5 @@ $ npm install @react-navigation/native-stack
 ```
 $ npm install --save phosphor-react-native
 ```
+
+

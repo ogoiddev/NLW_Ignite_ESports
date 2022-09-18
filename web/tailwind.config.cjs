@@ -2,6 +2,7 @@
 module.exports = {
   content: [
     './src/**/*.tsx',
+    './src/**/*',
     './index.html'
   ],
   theme: {
@@ -18,6 +19,3 @@ module.exports = {
   },
   plugins: [],
 }
-
-
-// 'linear-gradient(105deg, #9572FC 23.08%, #43E7AD 33.94%, #E1D55D 40.57%)',
