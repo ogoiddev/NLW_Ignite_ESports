@@ -30,7 +30,7 @@ export default function GameBanner() {
 
   return (
     <>
-    <div className="navigation-wrapper w-[80%]">
+    <div className="navigation-wrapper w-[80%] transition-all">
       <div ref={sliderRef} className="keen-slider mt-16">
           {games.map(game => {
           return (
