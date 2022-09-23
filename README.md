@@ -2,11 +2,11 @@
 
 ### Pagina inicial
 
-[!image](https://github.com/ogoiddev/NLW_Ignite_ESports/blob/main/web/src/assets/nlw_web.png)
+![image](https://github.com/ogoiddev/NLW_Ignite_ESports/blob/main/web/src/assets/nlw_web.png)
 
 ### Modal Forms
 
-[!image](https://github.com/ogoiddev/NLW_Ignite_ESports/blob/main/web/src/assets/nlw_form.png)
+![image](https://github.com/ogoiddev/NLW_Ignite_ESports/blob/main/web/src/assets/nlw_form.png)
 
 
 # Steps to config project
